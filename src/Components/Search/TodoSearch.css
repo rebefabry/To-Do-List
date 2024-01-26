@@ -1,0 +1,19 @@
+.search{
+    width: 100%;
+    height: 50px;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    color: black;
+}
+
+::placeholder {
+    text-align: center;
+    font-size: 15px;
+    color: #662d91;
+}
+
+:focus{
+    outline-color: #662d91;
+    border: none;
+}

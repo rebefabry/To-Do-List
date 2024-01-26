@@ -1,0 +1,16 @@
+.Error_Message{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    font-size: 25px;
+    color: white;
+    font-style: italic;   
+}
+
+.Error_Img {
+    width: 350px;
+    height: 350px;
+    position: relative;
+    right: -50px;
+}

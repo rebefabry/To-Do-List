@@ -1,0 +1,17 @@
+.First_Task{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    font-size: 25px;
+    color: white;
+    font-style: italic;   
+}
+
+.Create_Img {
+    width: 350px;
+    height: auto;
+    position: relative;
+    right: -50px;
+}
+
