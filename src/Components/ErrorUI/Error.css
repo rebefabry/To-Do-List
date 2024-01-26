@@ -14,3 +14,9 @@
     position: relative;
     right: -50px;
 }
+
+@media (max-width: 768px) {
+    .Error_Img{
+        right: -10px;
+    }
+  }

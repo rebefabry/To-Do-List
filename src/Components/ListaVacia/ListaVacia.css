@@ -15,3 +15,8 @@
     right: -50px;
 }
 
+@media (max-width: 768px) {
+    .Create_Img{
+        right: -20px;
+    }
+}

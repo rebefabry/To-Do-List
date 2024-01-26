@@ -8,6 +8,9 @@
     color: #fff;
     background: currentColor;
     box-shadow: 32px 0 , -32px 0 ,  64px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
   .loader::after {
@@ -64,4 +67,13 @@
     height: 350px;
     position: relative;
     right: -50px;
+}
+
+@media (max-width: 768px) {
+  .loader{
+    left: 150px;
+  }
+  .Loader_Img{
+      right: -20px;
+  }
 }
